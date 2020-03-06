@@ -1,0 +1,44 @@
+---
+title: Contato
+---
+<h1>Contato</h1>
+<p class="editable">
+Entre em contato para tratar sobre qualquer questão sobre nosso cardápio, fazer pedido de orçamento ou uma encomenda para festas, eventos ou casamentos.</p>
+
+<form method="post" data-netlify="true" name="sweet-amanda-contact" action="{{ site.baseurl }}/sucesso/">
+		<input type="hidden" name="_to" value="{{ site.data.email }}" />
+		<input type="text" name="_gotcha" style="display: none;">
+
+	<div class="contain">
+		<div class="split">
+			<label for="first-name">Nome</label>
+			<input type="text" name="first-name" id="first-name" />
+		</div>
+    <div class="split">
+      <label for="telephone">Telefone</label>
+      <input type="text" name="telephone" id="telephone" />
+    </div>
+	</div>
+
+	<div class="contain">
+		<div class="split">
+			<label for="email">Endereço de e-mail</label>
+			<input type="email" name="email" id="email" required />
+		</div>
+
+		<div class="split">
+			<label for="subject">Assunto</label>
+			<select id="subject" name="subject">
+        <option value="other">Encomenda</option>
+				<option value="enquiry">Orçamento</option>
+				<option value="suggestion">Dúvida</option>
+				<option value="press">Sugestão</option>
+			</select>
+		</div>
+	</div>
+
+	<label for="message">Mensagem</label>
+	<textarea name="message" id="message"></textarea>
+
+	<input type="submit" value="Enviar mensagem" />
+</form>

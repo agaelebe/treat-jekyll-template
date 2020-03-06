@@ -47,7 +47,7 @@
 				list-style-type: none;
 				&:before {
 					content: '\00bb';
-					color: #ff4e4e;
+					color: rgba(146,47,115,1);
 					padding-right: 0.5em;
 				}
 			}
@@ -64,7 +64,7 @@
 				&:before {
 					content: counter(step-counter);
 					margin-right: 0px;
-					background-color: #ff4e4e;
+					background-color: rgba(146,47,115,1);
 					color: white;
 					/* padding: 1px 7px; */
 					font-size: .7em;
@@ -85,6 +85,10 @@
 			@media #{$desktop} {
 				flex: 1;
 			}
+      td {
+        font-family: Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New;
+        padding-left: 1em;
+      }
 		}
 	}
 }
@@ -139,6 +143,10 @@
 		&.twitter {
 			background-color: #55acee;
 		}
+
+    &.whatsapp {
+      background-color: #25d366;
+    }
 
 		&.google-plus {
 			background-color: #db4437;

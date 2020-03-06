@@ -1,8 +1,8 @@
-- name: Home
+- name: Início
   link: /
-- name: About
-  link: /about/
-- name: Recipes
-  link: /recipes/
-- name: Contact
-  link: /contact/
+- name: Sobre
+  link: /sobre/
+- name: Páscoa
+  link: /pascoa/
+- name: Contato
+  link: /Contato/

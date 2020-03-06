@@ -1,8 +1,10 @@
 # ----
 # Site
 
-title: Treat Template
-url: "https://spring-bat.cloudvent.net/"
+title: Sweet Amanda Doces
+url: "sweetamanda.netlify.com"
+location: "São Paulo e ABCD"
+
 baseurl:
 google_analytics_key:
 newsletter_action:
@@ -10,15 +12,17 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Food blog template for Jekyll.
+description: Sweet Amanda doces - bolos, chocolates, doces finos e ovos de páscoa
 author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+  name: Amanda Borges
+  email: albnutri@gmail.com
+  twitter: sweetamandadoces
+  instagram: sweetamandadoces
+
 social:
-  name: Treat Template
+  name: Sweet Amanda
   links:
-    - https://github.com/CloudCannon/treat-jekyll-template
+    - https://github.com/agaelebe/treat-jekyll-template
 
 # -----
 # Build
@@ -74,14 +78,7 @@ exclude:
 # CloudCannon
 
 social_icons:
-  - Facebook
-  - Google Plus
   - Instagram
-  - LinkedIn
-  - Pinterest
-  - Tumblr
-  - Twitter
-  - YouTube
   - RSS
 
 _options:

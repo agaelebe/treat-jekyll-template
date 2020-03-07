@@ -2,7 +2,7 @@
 date: 2020-03-06
 title: Ovos de colher
 categories:
-  - De colher
+  - Colher
 featured_image: /images/ovos/ovos-de-colher.jpg
 recipe:
   servings: sem bombons

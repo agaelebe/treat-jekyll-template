@@ -6,9 +6,9 @@ categories:
 featured_image: /images/ovos/ovo-mix-de-castanhas.jpg
 recipe:
   ingredients_markdown: |-
-    * Chocolate belga Callebaut 70% de cacau
-    * Chocolate belga Callebaut ao leite
-    * Chocolate ao leite Creamy Sicao
+    * Chocolate belga _Callebaut_ 70% de cacau
+    * Chocolate belga _Callebaut_ ao leite
+    * Chocolate ao leite _Sicao Creamy_
     * Raspas de laranja glaceada
     * Mix de castanhas
     * Frutas secas

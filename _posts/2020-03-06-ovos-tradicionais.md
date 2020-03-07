@@ -6,9 +6,9 @@ categories:
 featured_image: /images/ovos/ovos-tradicionais.jpg
 recipe:
   ingredients_markdown: |-
-    * Chocolate branco Sicao
-    * Chocolate ao leite Sicao
-    * Chocolate meio amargo Sicao
+    * Chocolate branco _Sicao_
+    * Chocolate ao leite _Sicao_
+    * Chocolate meio amargo _Sicao_
     * Crocante com flocos de arroz
     * Crocante com castanha de caju (+R$ 4)
   directions_markdown: |-

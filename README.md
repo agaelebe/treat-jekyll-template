@@ -1,4 +1,4 @@
-# Sweet Amanda - Doces
+# Sweet Amanda  Doces - https://sweetamanda.com.br/
 
 Based on Treat template (Food/baking blog template for Jekyll)
 

@@ -3,12 +3,14 @@ title: Contato
 ---
 <h1>Contato</h1>
 <p class="editable">
-Entre em contato para tratar sobre qualquer questão sobre nosso cardápio, fazer pedido de orçamento ou encomenda para festas, eventos ou casamentos.</p>
-<p>Se preferir entre em contato por email em albnutri _arroba_ gmail.com.</p>
+  Entre em contato para tratar sobre qualquer questão sobre nosso cardápio, fazer um orçamento ou encomenda para festas, eventos, casamentos ou ocasiões especiais.
+</p>
+<p>
+  Se preferir entre em contato por email em sweetamanda _arroba_ gmail _ponto_ com ou por <a href="https://wa.me/{{ site.data.sidebar.whatsapp }}">Whatsapp (11) 985585635</a>a.
+</p>
 
-<form method="post" data-netlify="true" name="sweet-amanda-contact" action="{{ site.baseurl }}/sucesso/">
-		<input type="hidden" name="_to" value="{{ site.data.email }}" />
-		<input type="text" name="_gotcha" style="display: none;">
+<form method="POST" data-netlify="true"  netlify-honeypot="gotch" name="sweet-amanda-contact" action="{{ site.baseurl }}/sucesso/">
+		<input type="text" name="gotcha" style="display: none;">
 
 	<div class="contain">
 		<div class="split">

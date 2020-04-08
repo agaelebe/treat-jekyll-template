@@ -1,6 +1,6 @@
 ---
 date: 2020-03-06
-title: Ovos de chocolote de corte
+title: Ovos de chocolate de corte
 categories:
   - Corte
 featured_image: /images/ovos/ovo-brownie.jpg

@@ -1,6 +1,6 @@
 ---
 date: 2020-03-06
-title: Ovos de chocolote tradicionais
+title: Ovos de chocolate tradicionais
 categories:
   - Tradicionais
 featured_image: /images/ovos/ovos-tradicionais.jpg

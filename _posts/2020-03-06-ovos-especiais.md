@@ -1,6 +1,6 @@
 ---
 date: 2020-03-06
-title: Ovos de chocolote especiais
+title: Ovos de chocolate especiais
 categories:
   - Especiais
 featured_image: /images/ovos/ovo-mix-de-castanhas.jpg

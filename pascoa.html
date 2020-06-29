@@ -4,10 +4,10 @@ image_view: true
 ---
 <h1>Páscoa 2020</h1>
 
-<p>Se preferir, baixe o <a href="../files/sweet_amanda_cardapio_ovos_2020.pdf" target="_blank">cardápio completo das opções para a páscoa</a>.
+<p>Se preferir, baixe o <a href="../files/sweet_amanda_cardapio_ovos_2020.pdf" target="_blank">cardápio completo das opções para a páscoa</a>.</p>
 
 {% if page.image_view %}
-	{% for category in site.categories %}
+	{% for category in site.categories limit:5 %}
 		<h2>{{ category[0] }}</h2>
 		<div class="recipes">
 			{% for recipe in category[1] %}

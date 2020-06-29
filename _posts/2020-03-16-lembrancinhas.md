@@ -2,7 +2,7 @@
 date: 2020-03-06
 title: Lembrancinhas de páscoa
 categories:
-  - Lembranças
+  - Lembrancinhas de páscoa
 featured_image: /images/ovos/pao-de-mel.jpg
 recipe:
   ingredients_markdown: |-

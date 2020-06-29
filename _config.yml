@@ -31,7 +31,7 @@ timezone: Etc/UTC
 
 paginate: 10
 paginate_path: "/:num/"
-permalink: pretty
+permalink: /:categories/:title:output_ext
 
 defaults:
   -

@@ -1,7 +1,7 @@
 ---
 date: 2020-06-21
 title: Lembrancinhas
-featured_image: /images/chocolates/coracoes.jpg
+featured_image: /images/chocolates/diamantes.jpeg
 categories:
   - Lembrancinhas
 
@@ -13,8 +13,8 @@ recipe:
     * Acabamento: pintura metálica ou pintura respingada
 
   directions_markdown: |-
-    | Descrição         | Peso    |  R$   |
-    |-------------------|---------|-------|
+    | Descrição                     | Peso    |  R$   |
+    |-------------------------------|---------|-------|
     | Coração em relevo ou lapidado |  200grs |  R$22 |
     | Caixa com 4 flores            |  220grs |  R$24 |
     | Caixa com 3 diamantes         |  210grs |  R$26 |

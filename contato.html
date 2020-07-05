@@ -9,9 +9,7 @@ title: Contato
   Se preferir entre em contato por email em sweetamanda _arroba_ gmail _ponto_ com<br>ou por <a href="https://wa.me/{{ site.data.sidebar.whatsapp }}">Whatsapp/Telefone: (11) 985585635</a>.
 </p>
 
-<form method="POST" data-netlify="true" netlify-honeypot="gotcha" name="sweet-amanda-contact" action="{{ site.baseurl }}/sucesso.html">
-	<input type="text" name="gotcha" style="display: none;">
-
+<form method="POST" data-netlify="true" data-netlify-recaptcha="true" name="sweet-amanda-contact" action="{{ site.baseurl }}/sucesso.html">
 	<div class="contain">
 		<div class="split">
 			<label for="first-name">Nome</label>
@@ -43,5 +41,6 @@ title: Contato
 	<label for="message">Mensagem</label>
 	<textarea name="message" id="message"></textarea>
 
+  <div data-netlify-recaptcha="true"></div>
 	<input type="submit" value="Enviar mensagem" />
 </form>

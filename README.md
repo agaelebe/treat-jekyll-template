@@ -1,4 +1,4 @@
-# Sweet Amanda  Doces - https://sweetamanda.com.br/
+# Cocoa Art Chocolates - https://cocoa.art.br
 
 Based on Treat template (Food/baking blog template for Jekyll)
 

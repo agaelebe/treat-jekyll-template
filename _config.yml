@@ -1,9 +1,9 @@
 # ----
 # Site
 
-title: Sweet Amanda Doces
+title: Cocoa Art Chocolates
 url: "sweetamanda.netlify.com"
-location: "São Paulo e ABCD"
+location: "São Bernardo do Campo, São Paulo, Brasil"
 
 baseurl:
 google_analytics_key:
@@ -12,22 +12,22 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Sweet Amanda doces - bolos, chocolates, doces finos e ovos de páscoa
+description: Cocoa Art Chocolates - chocolates finos e ovos de páscoa
 author:
   name: Amanda Borges
   email: albnutri@gmail.com
-  twitter: sweetamandadoces
-  instagram: sweetamandadoces
+  twitter:
+  instagram: cocoa.art.chocolates
 
 social:
-  name: Sweet Amanda
+  name: Cocoa Art Chocolates
   links:
     - https://github.com/agaelebe/treat-jekyll-template
 
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: Etc/UTC-3
 
 paginate: 10
 paginate_path: "/:num/"
